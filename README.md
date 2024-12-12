@@ -9,7 +9,7 @@ A new set of puzzles is supplied every day as the advent of that day.
 
 If you are interested in the problems, you can find them ***[here](https://adventofcode.com/2024/events)***.
 
-I did this to get more familiar with **Python**, problems related to coding and for fun of course.
+I did this to get more familiar with **Python**, solve programming puzzles, and, of course, for fun. I've also strictly restricted myself from using **LLM**s for these problems.
 
 ## 🔨 To improve
 
