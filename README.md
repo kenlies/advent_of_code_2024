@@ -15,3 +15,4 @@ I did this to get more familiar with **Python**, solve programming puzzles, and,
 
 For now, I chose the most intuitive approach.
 Next, think about coming up with more efficient solutions: better time and space complexities.
+Also, the code could benefit from a more **Pythonic** approach.
